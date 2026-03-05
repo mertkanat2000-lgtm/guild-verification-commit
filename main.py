@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-05T15:39:30.314Z
-Commit: Resolve timezone issues in date handling
+Timestamp: 2026-03-05T15:40:15.524Z
+Commit: Add export functionality for reports
